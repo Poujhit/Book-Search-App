@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Who Wrote It?</string>
+    <string name="appname">Find Who Wrote It!</string>
+    <string name="des">Enter a Book name or a part of the book name or just some text from the book to find the author of the book and it\'s full name
+    </string>
+    <string name="enter">Enter Here</string>
+    <string name="result">Result Appears Here</string>
+    <string name="appfullname">Who Wrote It?</string>
+    <string name="ver">v1.75</string>
+    <string name="developerinfo">Developed By Poujhit</string>
+</resources>
